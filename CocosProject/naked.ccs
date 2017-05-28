@@ -1,0 +1,374 @@
+<Solution>
+  <PropertyGroup Name="naked" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="image">
+          <Image Name="img_tousumianban.png" />
+          <Image Name="loading.jpg" />
+          <Image Name="main_bg.png" />
+          <Image Name="main_top.png" />
+          <Image Name="SF_shifang.png" />
+          <Image Name="ui_daojudiban.png" />
+          <Image Name="ui_qiandao_ditu.jpg" />
+        </Folder>
+        <Folder Name="number">
+          <Image Name="guanka.png" />
+          <Image Name="labelatlas.png" />
+          <Image Name="num_enter.png" />
+          <Image Name="num_fail.png" />
+          <Image Name="num_infoAndvictory.png" />
+          <Image Name="num_property.png" />
+          <Image Name="number_remainstep.png" />
+          <Image Name="number_score.png" />
+          <Image Name="number_taskcomplete.png" />
+          <Image Name="sz.png" />
+          <Image Name="sz111.png" />
+          <Image Name="xuetiaoshuzi.png" />
+        </Folder>
+        <Folder Name="texture">
+          <PlistImageFolder Image="comment.png" PListFile="comment.plist" Name=".comment_PList.Dir">
+            <PlistImageFile Name="texture_comment_fivestar.png" Key="texture/comment/fivestar.png" />
+            <PlistImageFile Name="texture_comment_jianglimiaosu.png" Key="texture/comment/jianglimiaosu.png" />
+            <PlistImageFile Name="texture_comment_tucao.png" Key="texture/comment/tucao.png" />
+            <PlistImageFile Name="texture_comment_wuxinghaopingmianban.png" Key="texture/comment/wuxinghaopingmianban.png" />
+            <PlistImageFile Name="texture_comment_yihouzaishuo.png" Key="texture/comment/yihouzaishuo.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="common.png" PListFile="common.plist" Name=".common_PList.Dir">
+            <PlistImageFile Name="texture_common_1zhe.png" Key="texture/common/1zhe.png" />
+            <PlistImageFile Name="texture_common_bg_blue.png" Key="texture/common/bg_blue.png" />
+            <PlistImageFile Name="texture_common_bg_brown.png" Key="texture/common/bg_brown.png" />
+            <PlistImageFile Name="texture_common_bg_daojubox.png" Key="texture/common/bg_daojubox.png" />
+            <PlistImageFile Name="texture_common_bg_item_2.png" Key="texture/common/bg_item_2.png" />
+            <PlistImageFile Name="texture_common_bg_qiandaotiao.png" Key="texture/common/bg_qiandaotiao.png" />
+            <PlistImageFile Name="texture_common_bg_yellow_2.png" Key="texture/common/bg_yellow_2.png" />
+            <PlistImageFile Name="texture_common_bg_yellow_4.png" Key="texture/common/bg_yellow_4.png" />
+            <PlistImageFile Name="texture_common_BTN_12yuan.png" Key="texture/common/BTN_12yuan.png" />
+            <PlistImageFile Name="texture_common_BTN_18yuan.png" Key="texture/common/BTN_18yuan.png" />
+            <PlistImageFile Name="texture_common_BTN_1yuan.png" Key="texture/common/BTN_1yuan.png" />
+            <PlistImageFile Name="texture_common_BTN_30yuan.png" Key="texture/common/BTN_30yuan.png" />
+            <PlistImageFile Name="texture_common_BTN_6yuan.png" Key="texture/common/BTN_6yuan.png" />
+            <PlistImageFile Name="texture_common_btn_blue.png" Key="texture/common/btn_blue.png" />
+            <PlistImageFile Name="texture_common_btn_jia.png" Key="texture/common/btn_jia.png" />
+            <PlistImageFile Name="texture_common_btn_red.png" Key="texture/common/btn_red.png" />
+            <PlistImageFile Name="texture_common_btn_red002.png" Key="texture/common/btn_red002.png" />
+            <PlistImageFile Name="texture_common_closeBtn.png" Key="texture/common/closeBtn.png" />
+            <PlistImageFile Name="texture_common_colorbox_blue.png" Key="texture/common/colorbox_blue.png" />
+            <PlistImageFile Name="texture_common_colorbox_green.png" Key="texture/common/colorbox_green.png" />
+            <PlistImageFile Name="texture_common_colorbox_orange.png" Key="texture/common/colorbox_orange.png" />
+            <PlistImageFile Name="texture_common_colorbox_purple.png" Key="texture/common/colorbox_purple.png" />
+            <PlistImageFile Name="texture_common_colorbox_red.png" Key="texture/common/colorbox_red.png" />
+            <PlistImageFile Name="texture_common_colorbox_yellow.png" Key="texture/common/colorbox_yellow.png" />
+            <PlistImageFile Name="texture_common_font_10wanjinbi.png" Key="texture/common/font_10wanjinbi.png" />
+            <PlistImageFile Name="texture_common_font_3wanjinbi.png" Key="texture/common/font_3wanjinbi.png" />
+            <PlistImageFile Name="texture_common_font_bobantang.png" Key="texture/common/font_bobantang.png" />
+            <PlistImageFile Name="texture_common_font_buy.png" Key="texture/common/font_buy.png" />
+            <PlistImageFile Name="texture_common_font_caihongtang.png" Key="texture/common/font_caihongtang.png" />
+            <PlistImageFile Name="texture_common_font_chongxinpailie.png" Key="texture/common/font_chongxinpailie.png" />
+            <PlistImageFile Name="texture_common_font_datili.png" Key="texture/common/font_datili.png" />
+            <PlistImageFile Name="texture_common_font_dg.png" Key="texture/common/font_dg.png" />
+            <PlistImageFile Name="texture_common_font_fenxiang.png" Key="texture/common/font_fenxiang.png" />
+            <PlistImageFile Name="texture_common_font_fs.png" Key="texture/common/font_fs.png" />
+            <PlistImageFile Name="texture_common_font_huanse.png" Key="texture/common/font_huanse.png" />
+            <PlistImageFile Name="texture_common_font_huanseshua.png" Key="texture/common/font_huanseshua.png" />
+            <PlistImageFile Name="texture_common_font_huifu30dian.png" Key="texture/common/font_huifu30dian.png" />
+            <PlistImageFile Name="texture_common_font_huifu5dian.png" Key="texture/common/font_huifu5dian.png" />
+            <PlistImageFile Name="texture_common_font_jiawubu.png" Key="texture/common/font_jiawubu.png" />
+            <PlistImageFile Name="texture_common_font_jixuwan.png" Key="texture/common/font_jixuwan.png" />
+            <PlistImageFile Name="texture_common_font_lingqu.png" Key="texture/common/font_lingqu.png" />
+            <PlistImageFile Name="texture_common_font_qianghongbaoziti.png" Key="texture/common/font_qianghongbaoziti.png" />
+            <PlistImageFile Name="texture_common_font_queding.png" Key="texture/common/font_queding.png" />
+            <PlistImageFile Name="texture_common_font_restore.png" Key="texture/common/font_restore.png" />
+            <PlistImageFile Name="texture_common_font_SC_jinbi.png" Key="texture/common/font_SC_jinbi.png" />
+            <PlistImageFile Name="texture_common_font_SC_zhuanshi.png" Key="texture/common/font_SC_zhuanshi.png" />
+            <PlistImageFile Name="texture_common_font_shiguangji.png" Key="texture/common/font_shiguangji.png" />
+            <PlistImageFile Name="texture_common_font_shuaxin.png" Key="texture/common/font_shuaxin.png" />
+            <PlistImageFile Name="texture_common_font_shuoming.png" Key="texture/common/font_shuoming.png" />
+            <PlistImageFile Name="texture_common_font_tangguozhadan.png" Key="texture/common/font_tangguozhadan.png" />
+            <PlistImageFile Name="texture_common_font_xiaochu33.png" Key="texture/common/font_xiaochu33.png" />
+            <PlistImageFile Name="texture_common_font_xiaochuzhiding.png" Key="texture/common/font_xiaochuzhiding.png" />
+            <PlistImageFile Name="texture_common_font_xiaotili.png" Key="texture/common/font_xiaotili.png" />
+            <PlistImageFile Name="texture_common_font_youjiangfenxiang.png" Key="texture/common/font_youjiangfenxiang.png" />
+            <PlistImageFile Name="texture_common_font_zengjia.png" Key="texture/common/font_zengjia.png" />
+            <PlistImageFile Name="texture_common_font_zengjia30miao.png" Key="texture/common/font_zengjia30miao.png" />
+            <PlistImageFile Name="texture_common_gou.png" Key="texture/common/gou.png" />
+            <PlistImageFile Name="texture_common_img_cp_power.png" Key="texture/common/img_cp_power.png" />
+            <PlistImageFile Name="texture_common_img_lock.png" Key="texture/common/img_lock.png" />
+            <PlistImageFile Name="texture_common_img_qiandaoqie.png" Key="texture/common/img_qiandaoqie.png" />
+            <PlistImageFile Name="texture_common_img_qiandaotoutiao.png" Key="texture/common/img_qiandaotoutiao.png" />
+            <PlistImageFile Name="texture_common_img_shenglidi.png" Key="texture/common/img_shenglidi.png" />
+            <PlistImageFile Name="texture_common_img_wuxiantilitubiao.png" Key="texture/common/img_wuxiantilitubiao.png" />
+            <PlistImageFile Name="texture_common_img_yilingqu.png" Key="texture/common/img_yilingqu.png" />
+            <PlistImageFile Name="texture_common_item_1.png" Key="texture/common/item_1.png" />
+            <PlistImageFile Name="texture_common_item_10.png" Key="texture/common/item_10.png" />
+            <PlistImageFile Name="texture_common_item_12.png" Key="texture/common/item_12.png" />
+            <PlistImageFile Name="texture_common_item_13.png" Key="texture/common/item_13.png" />
+            <PlistImageFile Name="texture_common_item_14.png" Key="texture/common/item_14.png" />
+            <PlistImageFile Name="texture_common_item_15.png" Key="texture/common/item_15.png" />
+            <PlistImageFile Name="texture_common_item_16.png" Key="texture/common/item_16.png" />
+            <PlistImageFile Name="texture_common_item_17.png" Key="texture/common/item_17.png" />
+            <PlistImageFile Name="texture_common_item_2.png" Key="texture/common/item_2.png" />
+            <PlistImageFile Name="texture_common_item_3.png" Key="texture/common/item_3.png" />
+            <PlistImageFile Name="texture_common_item_4.png" Key="texture/common/item_4.png" />
+            <PlistImageFile Name="texture_common_item_5.png" Key="texture/common/item_5.png" />
+            <PlistImageFile Name="texture_common_item_6.png" Key="texture/common/item_6.png" />
+            <PlistImageFile Name="texture_common_item_7.png" Key="texture/common/item_7.png" />
+            <PlistImageFile Name="texture_common_item_8.png" Key="texture/common/item_8.png" />
+            <PlistImageFile Name="texture_common_item_9.png" Key="texture/common/item_9.png" />
+            <PlistImageFile Name="texture_common_item_con.png" Key="texture/common/item_con.png" />
+            <PlistImageFile Name="texture_common_jinbi.png" Key="texture/common/jinbi.png" />
+            <PlistImageFile Name="texture_common_libao.png" Key="texture/common/libao.png" />
+            <PlistImageFile Name="texture_common_main_star.png" Key="texture/common/main_star.png" />
+            <PlistImageFile Name="texture_common_piaodai.png" Key="texture/common/piaodai.png" />
+            <PlistImageFile Name="texture_common_SC_zuanshi02.png" Key="texture/common/SC_zuanshi02.png" />
+            <PlistImageFile Name="texture_common_SC_zuanshi03.png" Key="texture/common/SC_zuanshi03.png" />
+            <PlistImageFile Name="texture_common_title_mubiao.png" Key="texture/common/title_mubiao.png" />
+            <PlistImageFile Name="texture_common_zhuanshi.png" Key="texture/common/zhuanshi.png" />
+            <PlistImageFile Name="texture_common_jianglidi.png" Key="texture/common/jianglidi.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="CPBuyItem.png" PListFile="CPBuyItem.plist" Name=".CPBuyItem_PList.Dir">
+            <PlistImageFile Name="texture_CPBuyItem_bg_font_3.png" Key="texture/CPBuyItem/bg_font_3.png" />
+            <PlistImageFile Name="texture_CPBuyItem_btn_red_jia.png" Key="texture/CPBuyItem/btn_red_jia.png" />
+            <PlistImageFile Name="texture_CPBuyItem_btn_red_jian.png" Key="texture/CPBuyItem/btn_red_jian.png" />
+            <PlistImageFile Name="texture_CPBuyItem_font_goumai.png" Key="texture/CPBuyItem/font_goumai.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="CPGift.png" PListFile="CPGift.plist" Name=".CPGift_PList.Dir">
+            <PlistImageFile Name="texture_CPGift_bg_blue_4.png" Key="texture/CPGift/bg_blue_4.png" />
+            <PlistImageFile Name="texture_CPGift_font_huodemianfeidaoju.png" Key="texture/CPGift/font_huodemianfeidaoju.png" />
+            <PlistImageFile Name="texture_CPGift_font_jiangli.png" Key="texture/CPGift/font_jiangli.png" />
+            <PlistImageFile Name="texture_CPGift_font_jiazhi.png" Key="texture/CPGift/font_jiazhi.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="fail.png" PListFile="fail.plist" Name=".fail_PList.Dir">
+            <PlistImageFile Name="texture_fail_font_shibaimiansu.png" Key="texture/fail/font_shibaimiansu.png" />
+            <PlistImageFile Name="texture_fail_font_weidachengmubiao.png" Key="texture/fail/font_weidachengmubiao.png" />
+            <PlistImageFile Name="texture_fail_font_zailai.png" Key="texture/fail/font_zailai.png" />
+            <PlistImageFile Name="texture_fail_img_shibaibear.png" Key="texture/fail/img_shibaibear.png" />
+            <PlistImageFile Name="texture_fail_img_shibaiwawa.png" Key="texture/fail/img_shibaiwawa.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="fiveStep.png" PListFile="fiveStep.plist" Name=".fiveStep_PList.Dir">
+            <PlistImageFile Name="texture_fiveStep_font_bushu.png" Key="texture/fiveStep/font_bushu.png" />
+            <PlistImageFile Name="texture_fiveStep_font_freeResurgence.png" Key="texture/fiveStep/font_freeResurgence.png" />
+            <PlistImageFile Name="texture_fiveStep_font_freeResurgenceOne.png" Key="texture/fiveStep/font_freeResurgenceOne.png" />
+            <PlistImageFile Name="texture_fiveStep_font_goon.png" Key="texture/fiveStep/font_goon.png" />
+            <PlistImageFile Name="texture_fiveStep_font_jia30miao.png" Key="texture/fiveStep/font_jia30miao.png" />
+            <PlistImageFile Name="texture_fiveStep_font_jia5bu.png" Key="texture/fiveStep/font_jia5bu.png" />
+            <PlistImageFile Name="texture_fiveStep_font_shijian2.png" Key="texture/fiveStep/font_shijian2.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="flipBrand.png" PListFile="flipBrand.plist" Name=".flipBrand_PList.Dir">
+            <PlistImageFile Name="texture_flipBrand_bg_jinbi.png" Key="texture/flipBrand/bg_jinbi.png" />
+            <PlistImageFile Name="texture_flipBrand_chousongdejiangli.png" Key="texture/flipBrand/chousongdejiangli.png" />
+            <PlistImageFile Name="texture_flipBrand_da2zhe.png" Key="texture/flipBrand/da2zhe.png" />
+            <PlistImageFile Name="texture_flipBrand_font_FPgoumai.png" Key="texture/flipBrand/font_FPgoumai.png" />
+            <PlistImageFile Name="texture_flipBrand_font_FPhuode.png" Key="texture/flipBrand/font_FPhuode.png" />
+            <PlistImageFile Name="texture_flipBrand_font_goumaiquanbu.png" Key="texture/flipBrand/font_goumaiquanbu.png" />
+            <PlistImageFile Name="texture_flipBrand_font_guoguanjiangli.png" Key="texture/flipBrand/font_guoguanjiangli.png" />
+            <PlistImageFile Name="texture_flipBrand_font_mianfeichouqu.png" Key="texture/flipBrand/font_mianfeichouqu.png" />
+            <PlistImageFile Name="texture_flipBrand_font_quanbujiangli.png" Key="texture/flipBrand/font_quanbujiangli.png" />
+            <PlistImageFile Name="texture_flipBrand_font_xinyunbaobiao.png" Key="texture/flipBrand/font_xinyunbaobiao.png" />
+            <PlistImageFile Name="texture_flipBrand_FP_fanmian.png" Key="texture/flipBrand/FP_fanmian.png" />
+            <PlistImageFile Name="texture_flipBrand_FP_zhengmian.png" Key="texture/flipBrand/FP_zhengmian.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="levelInfo.png" PListFile="levelInfo.plist" Name=".levelInfo_PList.Dir">
+            <PlistImageFile Name="texture_levelInfo_font_dg.png" Key="texture/levelInfo/font_dg.png" />
+            <PlistImageFile Name="texture_levelInfo_font_ks.png" Key="texture/levelInfo/font_ks.png" />
+            <PlistImageFile Name="texture_levelInfo_font_mb.png" Key="texture/levelInfo/font_mb.png" />
+            <PlistImageFile Name="texture_levelInfo_font_qxzdj.png" Key="texture/levelInfo/font_qxzdj.png" />
+            <PlistImageFile Name="texture_levelInfo_font_tilijian5.png" Key="texture/levelInfo/font_tilijian5.png" />
+            <PlistImageFile Name="texture_levelInfo_img_daojujiagediban.png" Key="texture/levelInfo/img_daojujiagediban.png" />
+            <PlistImageFile Name="texture_levelInfo_tilicao.png" Key="texture/levelInfo/tilicao.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="main.png" PListFile="main.plist" Name=".main_PList.Dir">
+            <PlistImageFile Name="texture_main_bg_hp.png" Key="texture/main/bg_hp.png" />
+            <PlistImageFile Name="texture_main_board_edge0.png" Key="texture/main/board_edge0.png" />
+            <PlistImageFile Name="texture_main_board_edge1.png" Key="texture/main/board_edge1.png" />
+            <PlistImageFile Name="texture_main_board_edge2.png" Key="texture/main/board_edge2.png" />
+            <PlistImageFile Name="texture_main_board_inside.png" Key="texture/main/board_inside.png" />
+            <PlistImageFile Name="texture_main_board_outside.png" Key="texture/main/board_outside.png" />
+            <PlistImageFile Name="texture_main_font_bencimianfei.png" Key="texture/main/font_bencimianfei.png" />
+            <PlistImageFile Name="texture_main_font_tongguan.png" Key="texture/main/font_tongguan.png" />
+            <PlistImageFile Name="texture_main_font_wcmb.png" Key="texture/main/font_wcmb.png" />
+            <PlistImageFile Name="texture_main_grid.png" Key="texture/main/grid.png" />
+            <PlistImageFile Name="texture_main_grid_collect.png" Key="texture/main/grid_collect.png" />
+            <PlistImageFile Name="texture_main_grid_move.png" Key="texture/main/grid_move.png" />
+            <PlistImageFile Name="texture_main_img_fengshutiaobomo.png" Key="texture/main/img_fengshutiaobomo.png" />
+            <PlistImageFile Name="texture_main_img_pause_btn.png" Key="texture/main/img_pause_btn.png" />
+            <PlistImageFile Name="texture_main_img_score_slider.png" Key="texture/main/img_score_slider.png" />
+            <PlistImageFile Name="texture_main_img_score_string1.png" Key="texture/main/img_score_string1.png" />
+            <PlistImageFile Name="texture_main_img_shenglibeijing.png" Key="texture/main/img_shenglibeijing.png" />
+            <PlistImageFile Name="texture_main_lanzi.png" Key="texture/main/lanzi.png" />
+            <PlistImageFile Name="texture_main_main_checkpoint.png" Key="texture/main/main_checkpoint.png" />
+            <PlistImageFile Name="texture_main_main_star.png" Key="texture/main/main_star.png" />
+            <PlistImageFile Name="texture_main_main_star2.png" Key="texture/main/main_star2.png" />
+            <PlistImageFile Name="texture_main_progress_hp.png" Key="texture/main/progress_hp.png" />
+            <PlistImageFile Name="texture_main_sheguang.png" Key="texture/main/sheguang.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="pause.png" PListFile="pause.plist" Name=".pause_PList.Dir">
+            <PlistImageFile Name="texture_pause_btn_cb_bg.png" Key="texture/pause/btn_cb_bg.png" />
+            <PlistImageFile Name="texture_pause_btn_cb_bg02.png" Key="texture/pause/btn_cb_bg02.png" />
+            <PlistImageFile Name="texture_pause_btn_cb_center.png" Key="texture/pause/btn_cb_center.png" />
+            <PlistImageFile Name="texture_pause_btn_cb_center02.png" Key="texture/pause/btn_cb_center02.png" />
+            <PlistImageFile Name="texture_pause_font_chongwanbenguan.png" Key="texture/pause/font_chongwanbenguan.png" />
+            <PlistImageFile Name="texture_pause_font_duihuanma.png" Key="texture/pause/font_duihuanma.png" />
+            <PlistImageFile Name="texture_pause_font_guan.png" Key="texture/pause/font_guan.png" />
+            <PlistImageFile Name="texture_pause_font_kai.png" Key="texture/pause/font_kai.png" />
+            <PlistImageFile Name="texture_pause_font_restore.png" Key="texture/pause/font_restore.png" />
+            <PlistImageFile Name="texture_pause_font_shezhi.png" Key="texture/pause/font_shezhi.png" />
+            <PlistImageFile Name="texture_pause_font_tuichubenguan.png" Key="texture/pause/font_tuichubenguan.png" />
+            <PlistImageFile Name="texture_pause_font_tuichuyouxi.png" Key="texture/pause/font_tuichuyouxi.png" />
+            <PlistImageFile Name="texture_pause_font_yijingting.png" Key="texture/pause/font_yijingting.png" />
+            <PlistImageFile Name="texture_pause_font_yinxiao.png" Key="texture/pause/font_yinxiao.png" />
+            <PlistImageFile Name="texture_pause_font_yinyue.png" Key="texture/pause/font_yinyue.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="payment.png" PListFile="payment.plist" Name=".payment_PList.Dir">
+            <PlistImageFile Name="texture_payment_pingguo_icon.png" Key="texture/payment/pingguo_icon.png" />
+            <PlistImageFile Name="texture_payment_pingguozhifu.png" Key="texture/payment/pingguozhifu.png" />
+            <PlistImageFile Name="texture_payment_weixin_icon.png" Key="texture/payment/weixin_icon.png" />
+            <PlistImageFile Name="texture_payment_weixinzhifu.png" Key="texture/payment/weixinzhifu.png" />
+            <PlistImageFile Name="texture_payment_zhifufangshi.png" Key="texture/payment/zhifufangshi.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="power.png" PListFile="power.plist" Name=".power_PList.Dir">
+            <PlistImageFile Name="texture_power_font_bctl.png" Key="texture/power/font_bctl.png" />
+            <PlistImageFile Name="texture_power_font_dtl.png" Key="texture/power/font_dtl.png" />
+            <PlistImageFile Name="texture_power_font_huifu.png" Key="texture/power/font_huifu.png" />
+            <PlistImageFile Name="texture_power_font_jinglimanle.png" Key="texture/power/font_jinglimanle.png" />
+            <PlistImageFile Name="texture_power_font_jinxuyuanbuman.png" Key="texture/power/font_jinxuyuanbuman.png" />
+            <PlistImageFile Name="texture_power_font_ljhf.png" Key="texture/power/font_ljhf.png" />
+            <PlistImageFile Name="texture_power_font_tilibuzu.png" Key="texture/power/font_tilibuzu.png" />
+            <PlistImageFile Name="texture_power_font_use.png" Key="texture/power/font_use.png" />
+            <PlistImageFile Name="texture_power_ui_tili_chongwu1.png" Key="texture/power/ui_tili_chongwu1.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="selectLevel.png" PListFile="selectLevel.plist" Name=".selectLevel_PList.Dir">
+            <PlistImageFile Name="texture_selectLevel_bg_property.png" Key="texture/selectLevel/bg_property.png" />
+            <PlistImageFile Name="texture_selectLevel_bossguanka.png" Key="texture/selectLevel/bossguanka.png" />
+            <PlistImageFile Name="texture_selectLevel_btn_active.png" Key="texture/selectLevel/btn_active.png" />
+            <PlistImageFile Name="texture_selectLevel_btn_unactive.png" Key="texture/selectLevel/btn_unactive.png" />
+            <PlistImageFile Name="texture_selectLevel_font_jia1.png" Key="texture/selectLevel/font_jia1.png" />
+            <PlistImageFile Name="texture_selectLevel_font_renwuhoujiesui.png" Key="texture/selectLevel/font_renwuhoujiesui.png" />
+            <PlistImageFile Name="texture_selectLevel_font_wuxian.png" Key="texture/selectLevel/font_wuxian.png" />
+            <PlistImageFile Name="texture_selectLevel_hongsetishi.png" Key="texture/selectLevel/hongsetishi.png" />
+            <PlistImageFile Name="texture_selectLevel_img_wuxiantiliicon.png" Key="texture/selectLevel/img_wuxiantiliicon.png" />
+            <PlistImageFile Name="texture_selectLevel_jdt.png" Key="texture/selectLevel/jdt.png" />
+            <PlistImageFile Name="texture_selectLevel_jdt_di.png" Key="texture/selectLevel/jdt_di.png" />
+            <PlistImageFile Name="texture_selectLevel_jinbi.png" Key="texture/selectLevel/jinbi.png" />
+            <PlistImageFile Name="texture_selectLevel_SC_zuanshi01.png" Key="texture/selectLevel/SC_zuanshi01.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="share.png" PListFile="share.plist" Name=".share_PList.Dir">
+            <PlistImageFile Name="texture_share_weixinfenxiang.png" Key="texture/share/weixinfenxiang.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="shop.png" PListFile="shop.plist" Name=".shop_PList.Dir">
+            <PlistImageFile Name="texture_shop_bg_beibaotishi.png" Key="texture/shop/bg_beibaotishi.png" />
+            <PlistImageFile Name="texture_shop_bg_item_1.png" Key="texture/shop/bg_item_1.png" />
+            <PlistImageFile Name="texture_shop_btn_SC_1.png" Key="texture/shop/btn_SC_1.png" />
+            <PlistImageFile Name="texture_shop_btn_SC_2.png" Key="texture/shop/btn_SC_2.png" />
+            <PlistImageFile Name="texture_shop_font_SC_chaozhitaocan.png" Key="texture/shop/font_SC_chaozhitaocan.png" />
+            <PlistImageFile Name="texture_shop_font_SC_daoju.png" Key="texture/shop/font_SC_daoju.png" />
+            <PlistImageFile Name="texture_shop_font_SC_daojushangdian.png" Key="texture/shop/font_SC_daojushangdian.png" />
+            <PlistImageFile Name="texture_shop_font_SC_huobi.png" Key="texture/shop/font_SC_huobi.png" />
+            <PlistImageFile Name="texture_shop_font_SC_wodedaoju.png" Key="texture/shop/font_SC_wodedaoju.png" />
+            <PlistImageFile Name="texture_shop_font_SC_yuanjia.png" Key="texture/shop/font_SC_yuanjia.png" />
+            <PlistImageFile Name="texture_shop_font_zaizengsong.png" Key="texture/shop/font_zaizengsong.png" />
+            <PlistImageFile Name="texture_shop_font_zaizengsongjinbi.png" Key="texture/shop/font_zaizengsongjinbi.png" />
+            <PlistImageFile Name="texture_shop_font_zengsongzuanshi.png" Key="texture/shop/font_zengsongzuanshi.png" />
+            <PlistImageFile Name="texture_shop_img_shopbear.png" Key="texture/shop/img_shopbear.png" />
+            <PlistImageFile Name="texture_shop_img_shopding.png" Key="texture/shop/img_shopding.png" />
+            <PlistImageFile Name="texture_shop_jinbi.png" Key="texture/shop/jinbi.png" />
+            <PlistImageFile Name="texture_shop_SC_zhe.png" Key="texture/shop/SC_zhe.png" />
+            <PlistImageFile Name="texture_shop_xiegang.png" Key="texture/shop/xiegang.png" />
+            <PlistImageFile Name="texture_shop_yang.png" Key="texture/shop/yang.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="singIn.png" PListFile="singIn.plist" Name=".singIn_PList.Dir">
+            <PlistImageFile Name="texture_singIn_font_guanbi.png" Key="texture/singIn/font_guanbi.png" />
+            <PlistImageFile Name="texture_singIn_font_qiandao.png" Key="texture/singIn/font_qiandao.png" />
+            <PlistImageFile Name="texture_singIn_ui_qiandao_baoxiang0_guan_icon.png" Key="texture/singIn/ui_qiandao_baoxiang0_guan_icon.png" />
+            <PlistImageFile Name="texture_singIn_ui_qiandao_baoxiang0_kai_icon.png" Key="texture/singIn/ui_qiandao_baoxiang0_kai_icon.png" />
+            <PlistImageFile Name="texture_singIn_ui_qiandao_baoxiang1_guan_icon.png" Key="texture/singIn/ui_qiandao_baoxiang1_guan_icon.png" />
+            <PlistImageFile Name="texture_singIn_ui_qiandao_baoxiang1_kai_icon.png" Key="texture/singIn/ui_qiandao_baoxiang1_kai_icon.png" />
+            <PlistImageFile Name="texture_singIn_ui_qiandao_baoxiang2_guan_icon.png" Key="texture/singIn/ui_qiandao_baoxiang2_guan_icon.png" />
+            <PlistImageFile Name="texture_singIn_ui_qiandao_baoxiang2_kai_icon.png" Key="texture/singIn/ui_qiandao_baoxiang2_kai_icon.png" />
+            <PlistImageFile Name="texture_singIn_ui_qiandao_baoxiang3_kai_icon.png" Key="texture/singIn/ui_qiandao_baoxiang3_kai_icon.png" />
+            <PlistImageFile Name="texture_singIn_ui_qiandao_piaodai.png" Key="texture/singIn/ui_qiandao_piaodai.png" />
+            <PlistImageFile Name="texture_singIn_ui_qiandao_qiandaodian_weiqiandao.png" Key="texture/singIn/ui_qiandao_qiandaodian_weiqiandao.png" />
+            <PlistImageFile Name="texture_singIn_ui_qiandao_qiandaodian_yiqiandao.png" Key="texture/singIn/ui_qiandao_qiandaodian_yiqiandao.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="starReward.png" PListFile="starReward.plist" Name=".starReward_PList.Dir">
+            <PlistImageFile Name="texture_starReward_font_lq.png" Key="texture/starReward/font_lq.png" />
+            <PlistImageFile Name="texture_starReward_font_xingjijiangli.png" Key="texture/starReward/font_xingjijiangli.png" />
+            <PlistImageFile Name="texture_starReward_font_yilingqu.png" Key="texture/starReward/font_yilingqu.png" />
+            <PlistImageFile Name="texture_starReward_ui_shoujixingxing_chongwuzhanshi.png" Key="texture/starReward/ui_shoujixingxing_chongwuzhanshi.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="trip.png" PListFile="trip.plist" Name=".trip_PList.Dir">
+            <PlistImageFile Name="texture_trip_font_chongqirenwu.png" Key="texture/trip/font_chongqirenwu.png" />
+            <PlistImageFile Name="texture_trip_font_qihuanlvcheng.png" Key="texture/trip/font_qihuanlvcheng.png" />
+            <PlistImageFile Name="texture_trip_font_renwuday.png" Key="texture/trip/font_renwuday.png" />
+            <PlistImageFile Name="texture_trip_font_renwuhoujiesui.png" Key="texture/trip/font_renwuhoujiesui.png" />
+            <PlistImageFile Name="texture_trip_font_tongguoguan.png" Key="texture/trip/font_tongguoguan.png" />
+            <PlistImageFile Name="texture_trip_font_zisetitle.png" Key="texture/trip/font_zisetitle.png" />
+            <PlistImageFile Name="texture_trip_img_hentiaotou.png" Key="texture/trip/img_hentiaotou.png" />
+            <PlistImageFile Name="texture_trip_img_hentiaotoulanse.png" Key="texture/trip/img_hentiaotoulanse.png" />
+            <PlistImageFile Name="texture_trip_img_renwuzhezhao.png" Key="texture/trip/img_renwuzhezhao.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="victory.png" PListFile="victory.plist" Name=".victory_PList.Dir">
+            <PlistImageFile Name="texture_victory_font_nextBtn.png" Key="texture/victory/font_nextBtn.png" />
+            <PlistImageFile Name="texture_victory_font_reward.png" Key="texture/victory/font_reward.png" />
+            <PlistImageFile Name="texture_victory_font_victory.png" Key="texture/victory/font_victory.png" />
+            <PlistImageFile Name="texture_victory_img_shengliwawa.png" Key="texture/victory/img_shengliwawa.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="welcomeGift.png" PListFile="welcomeGift.plist" Name=".welcomeGift_PList.Dir">
+            <PlistImageFile Name="texture_welcomeGift_font_mianfeilingqu.png" Key="texture/welcomeGift/font_mianfeilingqu.png" />
+            <PlistImageFile Name="texture_welcomeGift_Gift_huanyinglibao.png" Key="texture/welcomeGift/Gift_huanyinglibao.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="wheel.png" PListFile="wheel.plist" Name=".wheel_PList.Dir">
+            <PlistImageFile Name="texture_wheel_bluelight.png" Key="texture/wheel/bluelight.png" />
+            <PlistImageFile Name="texture_wheel_dazhuanpan01.png" Key="texture/wheel/dazhuanpan01.png" />
+            <PlistImageFile Name="texture_wheel_dazhuanpan02.png" Key="texture/wheel/dazhuanpan02.png" />
+            <PlistImageFile Name="texture_wheel_dazhuanpan03.png" Key="texture/wheel/dazhuanpan03.png" />
+            <PlistImageFile Name="texture_wheel_dazhuanpan04.png" Key="texture/wheel/dazhuanpan04.png" />
+            <PlistImageFile Name="texture_wheel_dazhuanpan05.png" Key="texture/wheel/dazhuanpan05.png" />
+            <PlistImageFile Name="texture_wheel_dazhuanpan06.png" Key="texture/wheel/dazhuanpan06.png" />
+            <PlistImageFile Name="texture_wheel_fong_mianfeishuaxin.png" Key="texture/wheel/fong_mianfeishuaxin.png" />
+            <PlistImageFile Name="texture_wheel_font_choujiang.png" Key="texture/wheel/font_choujiang.png" />
+            <PlistImageFile Name="texture_wheel_font_mianfeichoujiang.png" Key="texture/wheel/font_mianfeichoujiang.png" />
+            <PlistImageFile Name="texture_wheel_font_yuanyici.png" Key="texture/wheel/font_yuanyici.png" />
+            <PlistImageFile Name="texture_wheel_font_zpshuaxin.png" Key="texture/wheel/font_zpshuaxin.png" />
+            <PlistImageFile Name="texture_wheel_highLight.png" Key="texture/wheel/highLight.png" />
+            <PlistImageFile Name="texture_wheel_img_huise.png" Key="texture/wheel/img_huise.png" />
+            <PlistImageFile Name="texture_wheel_img_zhizhen.png" Key="texture/wheel/img_zhizhen.png" />
+            <PlistImageFile Name="texture_wheel_img_zhongjian.png" Key="texture/wheel/img_zhongjian.png" />
+            <PlistImageFile Name="texture_wheel_img_zhongxin.png" Key="texture/wheel/img_zhongxin.png" />
+            <PlistImageFile Name="texture_wheel_img_zhuanpan.png" Key="texture/wheel/img_zhuanpan.png" />
+            <PlistImageFile Name="texture_wheel_img_zhuanpandiban.png" Key="texture/wheel/img_zhuanpandiban.png" />
+            <PlistImageFile Name="texture_wheel_meitianmianfei.png" Key="texture/wheel/meitianmianfei.png" />
+            <PlistImageFile Name="texture_wheel_orangelight.png" Key="texture/wheel/orangelight.png" />
+            <PlistImageFile Name="texture_wheel_shine.png" Key="texture/wheel/shine.png" />
+            <PlistImageFile Name="texture_wheel_xinyunbi.png" Key="texture/wheel/xinyunbi.png" />
+            <PlistImageFile Name="texture_wheel_yellowlight.png" Key="texture/wheel/yellowlight.png" />
+          </PlistImageFolder>
+        </Folder>
+        <Project Name="comment.csd" Type="Node" />
+        <Project Name="complain.csd" Type="Node" />
+        <Project Name="CPBuyItem.csd" Type="Node" />
+        <Project Name="CPGift.csd" Type="Node" />
+        <Project Name="fail.csd" Type="Node" />
+        <Project Name="fiveStep.csd" Type="Node" />
+        <Project Name="flipBrand.csd" Type="Node" />
+        <Project Name="fullPower.csd" Type="Node" />
+        <Project Name="levelInfo.csd" Type="Node" />
+        <Project Name="main.csd" Type="Node" />
+        <Project Name="pause.csd" Type="Node" />
+        <Project Name="payment.csd" Type="Node" />
+        <Project Name="power.csd" Type="Node" />
+        <Project Name="selectLevel.csd" Type="Node" />
+        <Project Name="share.csd" Type="Node" />
+        <Project Name="shop.csd" Type="Node" />
+        <Project Name="showItemReward.csd" Type="Node" />
+        <Project Name="singIn.csd" Type="Node" />
+        <Project Name="starReward.csd" Type="Node" />
+        <Project Name="taskCue.csd" Type="Node" />
+        <Project Name="trip.csd" Type="Node" />
+        <Project Name="victory.csd" Type="Node" />
+        <Project Name="welcomeGift.csd" Type="Node" />
+        <Project Name="wheel.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

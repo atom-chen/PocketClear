@@ -1,0 +1,272 @@
+
+BOSS_clown.png
+size: 1910,1408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_01
+  rotate: true
+  xy: 2, 1006
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_02
+  rotate: true
+  xy: 504, 1006
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_03
+  rotate: false
+  xy: 1006, 906
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_04
+  rotate: false
+  xy: 2, 504
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_05
+  rotate: false
+  xy: 404, 504
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_06
+  rotate: true
+  xy: 974, 504
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_07
+  rotate: true
+  xy: 1408, 1006
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_08
+  rotate: false
+  xy: 1476, 419
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_09
+  rotate: true
+  xy: 2, 102
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_10
+  rotate: true
+  xy: 504, 102
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_11
+  rotate: false
+  xy: 1006, 2
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+0_12
+  rotate: true
+  xy: 1408, 17
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+BOSS
+  rotate: false
+  xy: 806, 775
+  size: 166, 229
+  orig: 166, 229
+  offset: 0, 0
+  index: -1
+L_eye_1
+  rotate: true
+  xy: 918, 732
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+L_eye_2
+  rotate: true
+  xy: 874, 685
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+L_hand_1
+  rotate: false
+  xy: 874, 728
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+L_hand_2
+  rotate: false
+  xy: 923, 686
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+L_leg_1
+  rotate: true
+  xy: 874, 647
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+R_eye_1
+  rotate: true
+  xy: 806, 575
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+R_eye_2
+  rotate: false
+  xy: 806, 530
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+R_eye_3
+  rotate: false
+  xy: 880, 554
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+R_hand_1
+  rotate: true
+  xy: 1441, 452
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+R_hand_2
+  rotate: false
+  xy: 1440, 420
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+R_leg_1
+  rotate: true
+  xy: 925, 650
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+bady_1
+  rotate: false
+  xy: 1635, 929
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+bady_2
+  rotate: false
+  xy: 806, 599
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 974, 918
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 806, 645
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 1734, 932
+  size: 142, 72
+  orig: 142, 72
+  offset: 0, 0
+  index: -1
+hat_1_2
+  rotate: false
+  xy: 1508, 928
+  size: 125, 76
+  orig: 125, 76
+  offset: 0, 0
+  index: -1
+hat_1_3
+  rotate: false
+  xy: 1408, 439
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 1408, 921
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 974, 947
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 1408, 419
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: true
+  xy: 904, 589
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+mouth_4
+  rotate: false
+  xy: 923, 704
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+nose_1
+  rotate: false
+  xy: 852, 570
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: true
+  xy: 947, 688
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1

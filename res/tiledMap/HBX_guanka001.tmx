@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="1" height="14" tilewidth="720" tileheight="1280" nextobjectid="179">
+ <tileset firstgid="1" name="guanka002" tilewidth="720" tileheight="1280">
+  <image source="guanka002.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="2" name="guanka003" tilewidth="720" tileheight="1280">
+  <image source="guanka003.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="3" name="guanka004" tilewidth="720" tileheight="1280">
+  <image source="guanka004.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="4" name="guanka005" tilewidth="720" tileheight="1280">
+  <image source="guanka005.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="5" name="guanka006" tilewidth="720" tileheight="1280">
+  <image source="guanka006.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="6" name="guanka007" tilewidth="720" tileheight="1280">
+  <image source="guanka007.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="7" name="guanka008" tilewidth="720" tileheight="1280">
+  <image source="guanka008.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="8" name="guanka009" tilewidth="720" tileheight="1280">
+  <image source="guanka009.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="9" name="guanka010" tilewidth="720" tileheight="1280">
+  <image source="guanka010.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="10" name="guanka011" tilewidth="720" tileheight="1280">
+  <image source="guanka011.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="11" name="guanka012" tilewidth="720" tileheight="1280">
+  <image source="guanka012.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="12" name="guanka013" tilewidth="720" tileheight="1280">
+  <image source="guanka013.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="13" name="guanka014" tilewidth="720" tileheight="1280">
+  <image source="guanka014.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="14" name="guanka015" tilewidth="720" tileheight="1280">
+  <image source="guanka015.png" width="720" height="1280"/>
+ </tileset>
+ <tileset firstgid="15" name="guanka016" tilewidth="720" tileheight="1280">
+  <image source="guanka016.png" width="720" height="1280"/>
+ </tileset>
+ <layer name="Guanka002" width="1" height="14">
+  <data encoding="base64" compression="zlib">
+   eJwNw4cNwDAMACBn7/5/bkHii4jn9bhdTofdZrWYTf4QFABq
+  </data>
+ </layer>
+ <objectgroup name="CPObjectGroup">
+  <object id="1" name="Button3" x="346.667" y="17505.3" width="115" height="99"/>
+  <object id="2" name="Button1" x="250.5" y="17709.8" width="115" height="99"/>
+  <object id="3" name="Button2" x="180.167" y="17577.5" width="115" height="99"/>
+  <object id="4" name="Button4" x="419.166" y="17370.1" width="115" height="99"/>
+  <object id="5" name="Button5" x="240.5" y="17313.8" width="115" height="99"/>
+  <object id="7" name="Button6" x="98.834" y="17202.9" width="115" height="99"/>
+  <object id="8" name="Button7" x="238.5" y="17009.8" width="115" height="99"/>
+  <object id="9" name="Button8" x="399.833" y="16866.5" width="115" height="99"/>
+  <object id="10" name="Button9" x="460.5" y="16730.5" width="115" height="99"/>
+  <object id="11" name="Button10" x="397.166" y="16582.5" width="115" height="99"/>
+  <object id="12" name="Button11" x="254.833" y="16481.5" width="115" height="99"/>
+  <object id="13" name="Button12" x="119.5" y="16355.9" width="115" height="99"/>
+  <object id="14" name="Button13" x="223.5" y="16206.8" width="115" height="99"/>
+  <object id="15" name="Button14" x="385.5" y="16082.8" width="115" height="99"/>
+  <object id="16" name="Button15" x="394.5" y="15927.5" width="115" height="99"/>
+  <object id="17" name="Button16" x="266.833" y="15776.5" width="115" height="99"/>
+  <object id="18" name="Button18" x="356.166" y="15444.8" width="115" height="99"/>
+  <object id="19" name="Button17" x="227.834" y="15605.8" width="115" height="99"/>
+  <object id="20" name="Button20" x="402.167" y="15155.5" width="115" height="99"/>
+  <object id="21" name="Button19" x="474.5" y="15310.8" width="115" height="99"/>
+  <object id="22" name="Button21" x="245.5" y="15061.5" width="115" height="99"/>
+  <object id="23" name="Button22" x="92.833" y="14990.8" width="115" height="99"/>
+  <object id="24" name="Button23" x="130.5" y="14841.8" width="115" height="99"/>
+  <object id="25" name="Button24" x="141.833" y="14693.8" width="115" height="99"/>
+  <object id="26" name="Button25" x="291.5" y="14587.1" width="115" height="99"/>
+  <object id="27" name="Button26" x="461.167" y="14518.5" width="115" height="99"/>
+  <object id="28" name="Button27" x="434.5" y="14376.2" width="115" height="99"/>
+  <object id="29" name="Button28" x="298.833" y="14267.5" width="115" height="99"/>
+  <object id="30" name="Button29" x="158.834" y="14218.8" width="115" height="99"/>
+  <object id="31" name="Button30" x="117.167" y="14073.2" width="115" height="99"/>
+  <object id="32" name="Button31" x="159.5" y="13930.8" width="115" height="99"/>
+  <object id="33" name="Button33" x="386.834" y="13717.8" width="115" height="99"/>
+  <object id="34" name="Button32" x="301.167" y="13855.5" width="115" height="99"/>
+  <object id="35" name="Button34" x="254.167" y="13597.2" width="115" height="99"/>
+  <object id="36" name="Button35" x="100.5" y="13523.5" width="115" height="99"/>
+  <object id="37" name="Button36" x="123.834" y="13362.9" width="115" height="99"/>
+  <object id="38" name="Button37" x="291.834" y="13253.2" width="115" height="99"/>
+  <object id="39" name="Button38" x="398.166" y="13119.1" width="115" height="99"/>
+  <object id="40" name="Button39" x="241.833" y="13015.8" width="115" height="99"/>
+  <object id="41" name="Button40" x="101.166" y="12927.9" width="115" height="99"/>
+  <object id="42" name="Button41" x="213.834" y="12811.1" width="115" height="99"/>
+  <object id="43" name="Button42" x="345.5" y="12725.2" width="115" height="99"/>
+  <object id="44" name="Button43" x="379.167" y="12581.5" width="115" height="99"/>
+  <object id="45" name="Button44" x="428.833" y="12436.2" width="115" height="99"/>
+  <object id="46" name="Button45" x="308.5" y="12317.2" width="115" height="99"/>
+  <object id="47" name="Button47" x="377.167" y="12039.2" width="115" height="99"/>
+  <object id="48" name="Button46" x="275.833" y="12175.5" width="115" height="99"/>
+  <object id="49" name="Button48" x="268.167" y="11914.2" width="115" height="99"/>
+  <object id="50" name="Button49" x="150.5" y="11795.2" width="115" height="99"/>
+  <object id="51" name="Button50" x="194.5" y="11666.5" width="115" height="99"/>
+  <object id="52" name="Button51" x="329.833" y="11542.8" width="115" height="99"/>
+  <object id="53" name="Button52" x="445.5" y="11417.2" width="115" height="99"/>
+  <object id="54" name="Button53" x="363.5" y="11285.8" width="115" height="99"/>
+  <object id="55" name="Button54" x="276.5" y="11145.5" width="115" height="99"/>
+  <object id="56" name="Button55" x="374.5" y="10981.8" width="115" height="99"/>
+  <object id="57" name="Button56" x="302.167" y="10844.5" width="115" height="99"/>
+  <object id="58" name="Button57" x="167" y="10735.8" width="115" height="99"/>
+  <object id="59" name="Button58" x="181" y="10592.8" width="115" height="99"/>
+  <object id="60" name="Button59" x="304.833" y="10468.2" width="115" height="99"/>
+  <object id="61" name="Button60" x="426.333" y="10349.2" width="115" height="99"/>
+  <object id="62" name="Button61" x="385.333" y="10196.5" width="115" height="99"/>
+  <object id="63" name="Button62" x="266.833" y="10073.8" width="115" height="99"/>
+  <object id="64" name="Button63" x="349.167" y="9932.2" width="115" height="99"/>
+  <object id="65" name="Button64" x="341.5" y="9769.2" width="115" height="99"/>
+  <object id="66" name="Button65" x="194.833" y="9665.5" width="115" height="99"/>
+  <object id="67" name="Button66" x="189.833" y="9507.8" width="115" height="99"/>
+  <object id="68" name="Button67" x="327.167" y="9382.5" width="115" height="99"/>
+  <object id="69" name="Button68" x="442.5" y="9258.2" width="115" height="99"/>
+  <object id="70" name="Button69" x="392.833" y="9108.5" width="115" height="99"/>
+  <object id="71" name="Button70" x="260.833" y="8978.8" width="115" height="99"/>
+  <object id="72" name="Button71" x="370.167" y="8836.8" width="115" height="99"/>
+  <object id="73" name="Button72" x="324.167" y="8673.83" width="115" height="99"/>
+  <object id="74" name="Button73" x="173.167" y="8557.17" width="115" height="99"/>
+  <object id="75" name="Button74" x="73.833" y="8396.17" width="115" height="99"/>
+  <object id="76" name="Button75" x="110.833" y="8231.17" width="115" height="99"/>
+  <object id="77" name="Button76" x="272.5" y="8128.83" width="115" height="99"/>
+  <object id="78" name="Button77" x="436.5" y="8011.83" width="115" height="99"/>
+  <object id="79" name="Button78" x="494.5" y="7854.5" width="115" height="99"/>
+  <object id="80" name="Button79" x="454.5" y="7710.5" width="115" height="99"/>
+  <object id="81" name="Button80" x="306.5" y="7586.5" width="115" height="99"/>
+  <object id="83" name="Button81" x="163.5" y="7481.5" width="115" height="99"/>
+  <object id="84" name="Button82" x="62.5" y="7354.5" width="115" height="99"/>
+  <object id="85" name="Button83" x="118.5" y="7218.5" width="115" height="99"/>
+  <object id="86" name="Button84" x="282.5" y="7118.5" width="115" height="99"/>
+  <object id="87" name="Button85" x="450.5" y="7047.5" width="115" height="99"/>
+  <object id="88" name="Button86" x="362.5" y="6917.5" width="115" height="99"/>
+  <object id="89" name="Button87" x="198.5" y="6849.5" width="115" height="99"/>
+  <object id="90" name="Button88" x="33.5" y="6728.5" width="115" height="99"/>
+  <object id="91" name="Button89" x="90.5" y="6598.5" width="115" height="99"/>
+  <object id="92" name="Button90" x="227.5" y="6490.5" width="115" height="99"/>
+  <object id="93" name="Button91" x="383.5" y="6423.5" width="115" height="99"/>
+  <object id="94" name="Button92" x="457.5" y="6290.5" width="115" height="99"/>
+  <object id="95" name="Button93" x="475.5" y="6151.5" width="115" height="99"/>
+  <object id="96" name="Button94" x="450.5" y="6014.5" width="115" height="99"/>
+  <object id="97" name="Button95" x="302.5" y="5952.5" width="115" height="99"/>
+  <object id="98" name="Button96" x="151.5" y="5904.5" width="115" height="99"/>
+  <object id="99" name="Button97" x="67.5" y="5766.5" width="115" height="99"/>
+  <object id="100" name="Button98" x="105.5" y="5632.5" width="115" height="99"/>
+  <object id="101" name="Button99" x="248.5" y="5511.5" width="115" height="99"/>
+  <object id="102" name="Button100" x="398.5" y="5447.5" width="115" height="99"/>
+  <object id="108" name="Button101" x="291.5" y="5328.5" width="115" height="99"/>
+  <object id="109" name="Button102" x="214.5" y="5187.5" width="115" height="99"/>
+  <object id="110" name="Button103" x="331.5" y="5070.5" width="115" height="99"/>
+  <object id="111" name="Button104" x="506.5" y="4988.5" width="115" height="99"/>
+  <object id="112" name="Button105" x="442.5" y="4860.5" width="115" height="99"/>
+  <object id="113" name="Button106" x="259.5" y="4923.5" width="115" height="99"/>
+  <object id="114" name="Button107" x="89.5" y="4940.5" width="115" height="99"/>
+  <object id="115" name="Button108" x="41.5" y="4750.5" width="115" height="99"/>
+  <object id="116" name="Button109" x="206.5" y="4623.5" width="115" height="99"/>
+  <object id="117" name="Button110" x="360.5" y="4558.5" width="115" height="99"/>
+  <object id="118" name="Button111" x="198.5" y="4425.5" width="115" height="99"/>
+  <object id="119" name="Button112" x="283.5" y="4285.5" width="115" height="99"/>
+  <object id="120" name="Button113" x="452.5" y="4237.5" width="115" height="99"/>
+  <object id="121" name="Button114" x="546.5" y="4122.5" width="115" height="99"/>
+  <object id="122" name="Button115" x="531.5" y="3987.5" width="115" height="99"/>
+  <object id="124" name="Button117" x="235.5" y="4048.5" width="115" height="99"/>
+  <object id="125" name="Button116" x="389.5" y="3959.5" width="115" height="99"/>
+  <object id="126" name="Button118" x="85.5" y="4093.5" width="115" height="99"/>
+  <object id="127" name="Button119" x="6.5" y="3921.5" width="115" height="99"/>
+  <object id="128" name="Button120" x="143.5" y="3843.5" width="115" height="99"/>
+  <object id="129" name="Button122" x="277.5" y="3646.5" width="115" height="99"/>
+  <object id="130" name="Button121" x="284.5" y="3782.5" width="115" height="99"/>
+  <object id="131" name="Button123" x="132.5" y="3544.5" width="115" height="99"/>
+  <object id="132" name="Button124" x="88.5" y="3417.5" width="115" height="99"/>
+  <object id="133" name="Button125" x="188.5" y="3311.5" width="115" height="99"/>
+  <object id="134" name="Button126" x="338.5" y="3289.5" width="115" height="99"/>
+  <object id="135" name="Button127" x="499.5" y="3274.5" width="115" height="99"/>
+  <object id="136" name="Button128" x="541.5" y="3126.5" width="115" height="99"/>
+  <object id="137" name="Button129" x="526.5" y="2991.5" width="115" height="99"/>
+  <object id="138" name="Button130" x="405.5" y="2896.5" width="115" height="99"/>
+  <object id="139" name="Button131" x="249.5" y="2863.5" width="115" height="99"/>
+  <object id="142" name="Button132" x="92.5" y="2798.5" width="115" height="99"/>
+  <object id="143" name="Button133" x="41.5" y="2657.5" width="115" height="99"/>
+  <object id="144" name="Button134" x="129.5" y="2518.5" width="115" height="99"/>
+  <object id="145" name="Button135" x="291.5" y="2454.5" width="115" height="99"/>
+  <object id="146" name="Button136" x="360.5" y="2309.5" width="115" height="99"/>
+  <object id="147" name="Button137" x="276.5" y="2208.5" width="115" height="99"/>
+  <object id="148" name="Button138" x="133.5" y="2172.5" width="115" height="99"/>
+  <object id="149" name="Button139" x="13.5" y="2032.5" width="115" height="99"/>
+  <object id="150" name="Button140" x="129.5" y="1906.5" width="115" height="99"/>
+  <object id="151" name="Button141" x="294.5" y="1945.5" width="115" height="99"/>
+  <object id="152" name="Button142" x="461.5" y="1965.5" width="115" height="99"/>
+  <object id="153" name="Button143" x="517.5" y="1838.5" width="115" height="99"/>
+  <object id="154" name="Button144" x="418.5" y="1737.5" width="115" height="99"/>
+  <object id="157" name="Terminal" x="330" y="165" width="113" height="95"/>
+  <object id="158" name="Button145" x="275.5" y="1747.5" width="115" height="99"/>
+  <object id="159" name="Button146" x="108.5" y="1704.5" width="115" height="99"/>
+  <object id="160" name="Button147" x="58.5" y="1547.5" width="115" height="99"/>
+  <object id="161" name="Button148" x="214.5" y="1487.5" width="115" height="99"/>
+  <object id="162" name="Button149" x="370.5" y="1471.5" width="115" height="99"/>
+  <object id="163" name="Button150" x="419.5" y="1345.5" width="115" height="99"/>
+  <object id="164" name="Button151" x="377.5" y="1227.5" width="115" height="99"/>
+  <object id="165" name="Button152" x="262.5" y="1130.5" width="115" height="99"/>
+  <object id="166" name="Button153" x="142.5" y="1042.5" width="115" height="99"/>
+  <object id="167" name="Button154" x="122.5" y="913.5" width="115" height="99"/>
+  <object id="168" name="Button155" x="253.5" y="857.5" width="115" height="99"/>
+ </objectgroup>
+</map>
